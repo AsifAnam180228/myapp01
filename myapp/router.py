@@ -1,4 +1,4 @@
-from webapp.viewsets import  EmployeeViewset
+from webapp.viewsets import EmployeeViewset
 from rest_framework import routers
 
 router = routers.DefaultRouter()
